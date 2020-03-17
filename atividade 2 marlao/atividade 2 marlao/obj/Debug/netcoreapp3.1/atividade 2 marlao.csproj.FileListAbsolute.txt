@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\bin\Debug\netcoreapp3.1\atividade 2 marlao.exe
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\bin\Debug\netcoreapp3.1\atividade 2 marlao.deps.json
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\bin\Debug\netcoreapp3.1\atividade 2 marlao.runtimeconfig.json
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\bin\Debug\netcoreapp3.1\atividade 2 marlao.runtimeconfig.dev.json
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\bin\Debug\netcoreapp3.1\atividade 2 marlao.dll
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\bin\Debug\netcoreapp3.1\atividade 2 marlao.pdb
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\obj\Debug\netcoreapp3.1\atividade 2 marlao.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\obj\Debug\netcoreapp3.1\atividade 2 marlao.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\obj\Debug\netcoreapp3.1\atividade 2 marlao.AssemblyInfo.cs
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\obj\Debug\netcoreapp3.1\atividade 2 marlao.dll
+C:\Users\filip\Desktop\atividade c#\atividade 2 marlao\atividade 2 marlao\obj\Debug\netcoreapp3.1\atividade 2 marlao.pdb
